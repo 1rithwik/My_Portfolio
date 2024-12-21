@@ -16,9 +16,7 @@ export const AboutMe = () => {
           <h2>Where I Was Born</h2>
           <p>I was born in <strong>Hyderabad</strong>, which holds a special place in my heart for its unique characteristic.</p>
         </div>
-      </div>
 
-      <div className="about-section">
         <div className="about-item">
           <h2>About My Family</h2>
           <p>

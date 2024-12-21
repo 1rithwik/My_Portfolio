@@ -8,7 +8,7 @@ export const Sidebar = ({ isCollapsed, setIsCollapsed }) => {
     <aside className={`sidebar ${isCollapsed ? 'collapsed' : ''}`}>
       <div className="sidebar-container">
         <div className="sidebar-header">
-          {!isCollapsed && <div className="logo">Your Logo</div>}
+          {!isCollapsed && <div className="logo">My Portfolio</div>}
           <button
             onClick={() => setIsCollapsed(!isCollapsed)}
             className="toggle-button"
