@@ -13,6 +13,7 @@ import './App.css';
 
 function App() {
   const [isCollapsed, setIsCollapsed] = useState(false);
+  localStorage.clear();
 
   return (
     <Router>

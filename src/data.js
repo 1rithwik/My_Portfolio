@@ -76,6 +76,57 @@ const myData={
             ],
             Project_Link: "https://github.com/1rithwik/WebApplication_Project"
         }
+    ],
+    myfriends:[
+        {
+            "Name":"Sai Teja",
+            "Profession":"SAP Analyst at Deloitte",
+            "When":"Met at my Graduation college",
+            "img":""
+        },
+        {
+            "Name":"Phanindra",
+            "Profession":"MBA at XYZ College",
+            "When":"Met at School",
+            "img":""
+        },
+        {
+            "Name":"Kasyap",
+            "Profession":"Currently searching for job",
+            "When":"Met at my Graduation College",
+            "img":""
+        }
+    ],
+    favMoivies:[
+        {
+            "Name":"SitaRamam",
+            "Year":2022,
+            "img":"../assets/sitaramam.jpg"
+        },
+        {
+            "Name":"The pursuit of Happiness",
+            "Year":2006,
+            "img":"../assets/TPOH.jpg"
+        },
+        {
+            "Name":"Soorarai Pottru",
+            "Year":2020,
+            "img":"../assets/SP.jpg"
+        }
+    ],
+    favCartoons:[
+        {
+            "Name":"Doremon",
+            "img":"../assets/doremon.jpg"
+        },
+        {
+            "Name":"Tom and Jerry",
+            "img":"../assets/TAJ.jpg"
+        },
+        {
+            "Name":"Shinchan",
+            "img":"../assets/Shinchan.jpg"
+        }
     ]
 }
 
